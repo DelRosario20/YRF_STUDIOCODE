@@ -8,3 +8,7 @@ Este es un ejercicio que hemos hecho para crear un repositorio utilizando **Visu
 ## Segundo intento
 
 Visualización de segundo intento
+
+Las ciudades más lindas del Ecuador son:
+
+- [Guayaquil](Guayaquil.md)
